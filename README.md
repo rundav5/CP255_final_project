@@ -21,16 +21,12 @@ Several online portals, such as [Our World in Data](https://ourworldindata.org/c
 
 The Colombian government offers a case-by-case dataset of the confirmed COVID-19 infections since the beginning of the pandemic. This means that to-date, that dataset has more than 6 million records (the number of confirmed COVID-19 cases in the country). As a reference, Colombia has approximately 48 million inhabitants.
 
-<iframe src="https://www.eltiempo.com/files/image_950_534/uploads/2020/03/25/5e7b553bac37b.jpeg" width="800" height="600"></iframe>
-
 The dataset is updated every 24 hours and can be accessed through and API (as shown in the following chunks of code). Something crucial for this analysis is the differentiation between the report and the infection dates. The Colombian dataset has the advantage that reports several dates related to each confirmed case, such as: 
 - Date of report
 - Date of beginning of symptoms
 - Date of diagnosis
 - Date of recovery
 - Date of death
-
-
 
 Having access to those dates is what allows to correlate infection (using the date of beginning of symptoms and diagnosis as proxys) with the level of mobility.
 
