@@ -41,10 +41,13 @@ Having access to those dates is what allows to correlate infection (using the da
 ## Government Stringency and Mobility Reduction
 
 ### Oxford Stringency Index (OSI)
+The source for the OSI is the [COVID-19 dataset from Our World in Data (OWID)](https://ourworldindata.org/explorers/coronavirus-data-explorer)
 
 ![image](https://user-images.githubusercontent.com/90360629/164157685-2afa4d4a-7660-44fe-adf8-a39385c58aff.png)
 
 ![image](https://user-images.githubusercontent.com/90360629/164157711-66630b83-89be-45bf-85ee-8d57eee5046e.png)
 
+### Google Mobility Reports (GMR)
+The source of this dataset is [COVID-19 Google Mobility Reports](https://www.google.com/covid19/mobility/)
 
 
