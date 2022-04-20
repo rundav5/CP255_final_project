@@ -30,4 +30,5 @@ The dataset is updated every 24 hours and can be accessed through and API (as sh
 
 Having access to those dates is what allows to correlate infection (using the date of beginning of symptoms and diagnosis as proxys) with the level of mobility.
 
+![image](https://user-images.githubusercontent.com/90360629/164156356-477d0dd1-7af1-42fc-9f4f-45958447ca57.png)
 
