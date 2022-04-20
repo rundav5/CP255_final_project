@@ -16,7 +16,6 @@ Spring 2022
 
 Several online portals, such as [Our World in Data](https://ourworldindata.org/coronavirus), [Coronavirus tracker](https://gorkang.shinyapps.io/2020-corona/), and [Financial Times](https://www.ft.com/content/a2901ce8-5eb7-4633-b89c-cbdf5b386938), developed and published COVID-19 data visualizations and comparisons at a global and country scale. Nevertheless, those analyses do not differenciate between dates related to each case. For example, there is a difference between analyzing the number of daily cases by date of report than by date of diagnosis. The COVID-19 curves comparisons have been usually made based on the date of report, that can have "delay" of two (2) or three (3) weeks from the date of infection. This represents a crucial limitation to evaluate the real effect of policy measures, such as mobility restrictions, to contain the spread of the virus.
 
-
 ## Cases in Colombia
 
 The Colombian government offers a case-by-case dataset of the confirmed COVID-19 infections since the beginning of the pandemic. This means that to-date, that dataset has more than 6 million records (the number of confirmed COVID-19 cases in the country). As a reference, Colombia has approximately 48 million inhabitants.
@@ -34,4 +33,18 @@ The dataset is updated every 24 hours and can be accessed through and API (as sh
 Having access to those dates is what allows to correlate infection (using the date of beginning of symptoms and diagnosis as proxys) with the level of mobility.
 
 ![image](https://user-images.githubusercontent.com/90360629/164156356-477d0dd1-7af1-42fc-9f4f-45958447ca57.png)
+
+![image](https://user-images.githubusercontent.com/90360629/164157631-4a73f655-7a42-4725-b0c2-5f02bc8ab29e.png)
+
+![image](https://user-images.githubusercontent.com/90360629/164157661-2e41e9a7-210d-4132-94ce-1b50a3e09962.png)
+
+## Government Stringency and Mobility Reduction
+
+### Oxford Stringency Index (OSI)
+
+![image](https://user-images.githubusercontent.com/90360629/164157685-2afa4d4a-7660-44fe-adf8-a39385c58aff.png)
+
+![image](https://user-images.githubusercontent.com/90360629/164157711-66630b83-89be-45bf-85ee-8d57eee5046e.png)
+
+
 
