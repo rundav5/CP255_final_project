@@ -61,5 +61,5 @@ The source of this dataset is [COVID-19 Google Mobility Reports](https://www.goo
 3. Figure out a cool way to combine the case curve with the stringency indicators
 4. Reproduce analysis for main cities
 5. Write discussion and conclusions
-6. Review and apply GitHub best practices, so that everything needed to run the project in other computer is available and organized and a repo.
+6. Review and apply GitHub best practices, so that everything needed to run the project in other computer is available and organized in a repo.
 
