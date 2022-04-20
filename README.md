@@ -23,7 +23,7 @@ The Colombian government offers a case-by-case dataset of the confirmed COVID-19
 
 ![Book logo](/least-github-pages/assets/logo.png)
 
-![Picture](/CP255_final_project/assets/bogota_lockdwon.jpeg)
+![Picture](/CP255_final_project/docs/assets/bogota_lockdown.jpeg)
 
 The dataset is updated every 24 hours and can be accessed through and API (as shown in the following chunks of code). Something crucial for this analysis is the differentiation between the report and the infection dates. The Colombian dataset has the advantage that reports several dates related to each confirmed case, such as: 
 - Date of report
