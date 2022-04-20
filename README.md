@@ -50,4 +50,14 @@ The source for the OSI is the [COVID-19 dataset from Our World in Data (OWID)](h
 ### Google Mobility Reports (GMR)
 The source of this dataset is [COVID-19 Google Mobility Reports](https://www.google.com/covid19/mobility/)
 
+![image](https://user-images.githubusercontent.com/90360629/164159192-f2043bd7-7b4b-4faf-ad76-b0d0914bbb6e.png)
+
+![image](https://user-images.githubusercontent.com/90360629/164159216-d7ae7c46-18e8-4cf2-bade-c00316794dca.png)
+
+![image](https://user-images.githubusercontent.com/90360629/164159243-3c3d061e-128b-49d9-aab0-a47bddafd096.png)
+
+## Next steps
+1. Finish polishing some figures
+2. Figure out a cool way to combine the case curve with the stringency indicators
+3. Write discussion and conclusions
 
