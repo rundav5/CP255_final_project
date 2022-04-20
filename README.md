@@ -2,7 +2,7 @@
 **Rafael Unda** \
 UC Berkeley | College of Environemntal Design | Department of City and Regional Planning \
 CYPLAN 255: Urban Informatics and Visualization \
-Final Project
+Final Project \
 Spring 2022
 
 
