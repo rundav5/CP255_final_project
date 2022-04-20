@@ -1,4 +1,4 @@
-# Did Government Restrictions Contained COVID-19 in Colombia?
+# Did Government Restrictions Contain COVID-19 in Colombia?
 **Rafael Unda** \
 UC Berkeley | College of Environmental Design | Department of City and Regional Planning \
 CYPLAN 255: Urban Informatics and Visualization \
