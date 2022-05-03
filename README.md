@@ -57,6 +57,13 @@ The source of this dataset is [COVID-19 Google Mobility Reports](https://www.goo
 
 ![image](https://user-images.githubusercontent.com/90360629/164159243-3c3d061e-128b-49d9-aab0-a47bddafd096.png)
 
+## Analysis for Main Cities
+
+### Bogotá
+
+![image](https://user-images.githubusercontent.com/90360629/166571962-f75d601f-7bac-439c-81b7-8141747f11d2.png)
+
+
 ## Next steps
 1. Finish polishing some figures
 3. Figure out a cool way to combine the case curve with the stringency indicators
