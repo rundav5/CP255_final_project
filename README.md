@@ -48,13 +48,26 @@ The following figure shows the OSI for Colombia and Argentina, United States, an
 ![image](https://user-images.githubusercontent.com/90360629/166574546-333217e9-a368-4981-862c-8af99e788d59.png)
 
 ### Google Mobility Reports (GMR)
-The [COVID-19 Google Mobility Reports](https://www.google.com/covid19/mobility/) offer a relative comparison of the access to different ammenities since the beginning of the pandemic, based on cellphone data. 
+The [COVID-19 Google Mobility Reports](https://www.google.com/covid19/mobility/) offer a relative comparison of the access to different ammenities since the beginning of the pandemic, based on cellphone location data.
+
+The following figure shows the daily "mobility change" in six different ammenities since the beginning COVID-19 in Colombia.
 
 ![image](https://user-images.githubusercontent.com/90360629/164159192-f2043bd7-7b4b-4faf-ad76-b0d0914bbb6e.png)
 
-![image](https://user-images.githubusercontent.com/90360629/164159216-d7ae7c46-18e8-4cf2-bade-c00316794dca.png)
+The daily variation of GMR indicators makes it difficult to visualize the long-term tendency of mobility changes. I smoothed the indicator by applying a 7-day moving average to avoid small variations within a single week, as it is shown in the following figure.
 
-![image](https://user-images.githubusercontent.com/90360629/164159243-3c3d061e-128b-49d9-aab0-a47bddafd096.png)
+![image](https://user-images.githubusercontent.com/90360629/166590687-98225e41-cc82-4110-991e-2e8cdc621db9.png)
+
+The following figure shows the smoothed mobility changes in each ammenities' actegory after applying the 7-day moving average. With the exception of "Residence", all categorias have a similar evolution from the beginning of COVID-19 until today. Nevertheless, I highlight the "Workspace" because of its relevance and the fact that is stays within the variation of the other categories during almost all the analyzed time-series. 
+
+![image](https://user-images.githubusercontent.com/90360629/166591079-469ba0b2-86ec-4094-a790-5b929307ae31.png)
+
+### Did Restrictions Reduce Mobility?
+
+Recognizing that the GMR data is limited, the following figure shows that in a national scale, when policiy restrictions were more strict, mobility didn't decrease.
+
+
+## Cases vs Restrictions & Mobility
 
 ## Analysis for Main Cities
 
