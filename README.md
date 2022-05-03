@@ -52,7 +52,7 @@ The [COVID-19 Google Mobility Reports](https://www.google.com/covid19/mobility/)
 
 The following figure shows the daily "mobility change" in six different ammenities since the beginning COVID-19 in Colombia.
 
-![image](https://user-images.githubusercontent.com/90360629/164159192-f2043bd7-7b4b-4faf-ad76-b0d0914bbb6e.png)
+![image](https://user-images.githubusercontent.com/90360629/166596066-21ab6403-e934-4ba6-864f-596e6287aaf0.png)
 
 The daily variation of GMR indicators makes it difficult to visualize the long-term tendency of mobility changes. I smoothed the indicator by applying a 7-day moving average to avoid small variations within a single week, as it is shown in the following figure.
 
