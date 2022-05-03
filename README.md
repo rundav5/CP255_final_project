@@ -34,7 +34,7 @@ Having access to those dates is what allows to correlate infection (using the da
 
 ![image](https://user-images.githubusercontent.com/90360629/166570370-5ef68e03-c6f5-405e-b37e-cfbfe165cdb5.png)
 
-Although similar in their general shape, the daily cases curve looks different when it's analyzed by date of beginning of symptoms or diagnosis, as it is shown in the following figure.
+Although similar in their general shape, the daily cases curve looks different when it's analyzed by date of beginning of symptoms or diagnosis, as it is shown in the following figure. There is a 2-3 weeks "delay" in the daily cases curve by report date in comparison to the curve by date of beginning of symptoms or diagnosis, which makes a big difference to understand if lockdowns and other restrictions correlate or not to the evolution of infection.
 
 ![image](https://user-images.githubusercontent.com/90360629/166570689-5f6358b1-0a0b-4b84-8137-181cd9e9e48a.png)
 
