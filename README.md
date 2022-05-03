@@ -41,7 +41,7 @@ Although similar in their general shape, the daily cases curve looks different w
 ## Government Stringency and Mobility Reduction
 
 ### Oxford Stringency Index (OSI)
-[The Oxford Stringency Index (OSI)](https://www.bsg.ox.ac.uk/research/research-projects/covid-19-government-response-tracker) is an indicator of the policy measures adopted by governments in response to COVID-19 pandemic. It takes into account over 20 indicators, such as school closures, travel restrictions, and vaccionation policies.
+The [Oxford Stringency Index (OSI)](https://www.bsg.ox.ac.uk/research/research-projects/covid-19-government-response-tracker) is an indicator of the policy measures adopted by governments in response to COVID-19 pandemic. It takes into account over 20 indicators, such as school closures, travel restrictions, and vaccionation policies.
 
 The following figure shows the OSI for Colombia and Argentina, United States, and United Kingdom for comparison. A higher OSI means stronger restrictions. Compared to the other selected countries, at the beginning of the pandemic the Colombian Government responded with strong restrictions (OSI over 80) that were kept up to five (5) months, until September 2020. Later, there was a period of four (4) months in which restrictions eased a little bit (OSI around 60) to then come back up again close to the first wave stringency. Since then, the OSI for Colombia seems to be gradually decreasing with short periods of time of exception.
 
