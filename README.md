@@ -16,7 +16,7 @@ Spring 2022
 
 ## Cases in Colombia
 
-Several online portals, such as [Our World in Data](https://ourworldindata.org/coronavirus), [Coronavirus tracker](https://gorkang.shinyapps.io/2020-corona/), and [Financial Times](https://www.ft.com/content/a2901ce8-5eb7-4633-b89c-cbdf5b386938), developed and published COVID-19 data visualizations and comparisons at a global and country scale. Nevertheless, those analyses do not differenciate between dates related to each case. For example, there is a difference between analyzing the number of daily cases by date of report than by date of diagnosis. The COVID-19 curves comparisons have been usually made based on the date of report, that can have "delay" of two (2) or three (3) weeks from the date of infection. This represents a crucial limitation to evaluate the real effect of policy measures, such as mobility restrictions, to contain the spread of the virus.
+Several online portals, such as [Our World in Data](https://ourworldindata.org/coronavirus), [Coronavirus tracker](https://gorkang.shinyapps.io/2020-corona/), and [Financial Times](https://www.ft.com/content/a2901ce8-5eb7-4633-b89c-cbdf5b386938), developed and published COVID-19 data visualizations and comparisons at a global and country scale. Nevertheless, those analyses do not differenciate between dates related to each case. The COVID-19 curves comparisons have been usually made based on the date of report, which represents a crucial limitation to evaluate the real effect of policy measures, such as mobility restrictions, to contain the spread of the virus.
 
 The Colombian government offers a case-by-case dataset of the confirmed COVID-19 infections since the beginning of the pandemic. This means that to-date, that dataset has more than 6 million records (the number of confirmed COVID-19 cases in the country). As a reference, Colombia has approximately 48 million inhabitants.
 
@@ -34,7 +34,7 @@ Having access to those dates is what allows to correlate infection (using the da
 
 ![image](https://user-images.githubusercontent.com/90360629/166570370-5ef68e03-c6f5-405e-b37e-cfbfe165cdb5.png)
 
-Although similar in their general shape, the daily cases curve looks different when it's analyzed by date of beginning of symptoms or diagnosis, as it is shown in the following figure. There is a 2-3 weeks "delay" in the daily cases curve by report date in comparison to the curve by date of beginning of symptoms or diagnosis, which makes a big difference to understand if lockdowns and other restrictions correlate or not to the evolution of infection.
+Although similar in their general shape, the daily cases curve looks different when it's analyzed by date of beginning of symptoms or diagnosis, as it is shown in the following figure. There is a "delay" of two (2) to three (3) weeks in the daily cases curve by report date in comparison to the curve by date of beginning of symptoms or diagnosis, which makes a big difference to understand if lockdowns and other restrictions correlate or not to the evolution of infection.
 
 ![image](https://user-images.githubusercontent.com/90360629/166570689-5f6358b1-0a0b-4b84-8137-181cd9e9e48a.png)
 
@@ -43,10 +43,9 @@ Although similar in their general shape, the daily cases curve looks different w
 ### Oxford Stringency Index (OSI)
 [The Oxford Stringency Index (OSI)](https://www.bsg.ox.ac.uk/research/research-projects/covid-19-government-response-tracker) is an indicator of the policy measures adopted by governments in response to COVID-19 pandemic. It takes into account over 20 indicators, such as school closures, travel restrictions, and vaccionation policies.
 
+The following figure shows the OSI for Colombia and Argentina, United States, and United Kingdom for comparison. A higher OSI means stronger restrictions.
 
-![image](https://user-images.githubusercontent.com/90360629/164157685-2afa4d4a-7660-44fe-adf8-a39385c58aff.png)
-
-![image](https://user-images.githubusercontent.com/90360629/164157711-66630b83-89be-45bf-85ee-8d57eee5046e.png)
+![image](https://user-images.githubusercontent.com/90360629/166574546-333217e9-a368-4981-862c-8af99e788d59.png)
 
 ### Google Mobility Reports (GMR)
 The source of this dataset is [COVID-19 Google Mobility Reports](https://www.google.com/covid19/mobility/)
