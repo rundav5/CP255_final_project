@@ -8,15 +8,15 @@ Spring 2022
 
 ## Introduction
 
-**My research question** is if mobility restrictions worked to contain COVID-19 infection and deaths in Colombia. To answer the question, I will analyze and visualize cases and deaths over time and compare it to mobility restriction measures or proxys. The following are the **datasets** used in this project: 
+**My research question** is if mobility restrictions worked to contain COVID-19 infection in Colombia. To answer the question, I will analyze and visualize cases over time and compare it to mobility restriction measures or proxys. The following are the **datasets** used in this project: 
 1. [Confirmed COVID-19 cases reported by Colombian National Government](https://www.ins.gov.co/Noticias/Paginas/coronavirus-casos.aspx)
-2. [The Oxford Stringency Index (OSI)](https://www.bsg.ox.ac.uk/research/research-projects/covid-19-government-response-tracker)
+2. [The Oxford Stringency Index (OSI)](https://ourworldindata.org/explorers/coronavirus-data-explorer)
 3. [COVID-19 Google Mobility Reports](https://www.google.com/covid19/mobility/)
 4. ~~[COVID-19 Apple Mobility Trends Report](https://covid19.apple.com/mobility)~~ (As of April 14, 2022, Apple is no longer providing COVID-19 mobility trend reports)
 
-Several online portals, such as [Our World in Data](https://ourworldindata.org/coronavirus), [Coronavirus tracker](https://gorkang.shinyapps.io/2020-corona/), and [Financial Times](https://www.ft.com/content/a2901ce8-5eb7-4633-b89c-cbdf5b386938), developed and published COVID-19 data visualizations and comparisons at a global and country scale. Nevertheless, those analyses do not differenciate between dates related to each case. For example, there is a difference between analyzing the number of daily cases by date of report than by date of diagnosis. The COVID-19 curves comparisons have been usually made based on the date of report, that can have "delay" of two (2) or three (3) weeks from the date of infection. This represents a crucial limitation to evaluate the real effect of policy measures, such as mobility restrictions, to contain the spread of the virus.
-
 ## Cases in Colombia
+
+Several online portals, such as [Our World in Data](https://ourworldindata.org/coronavirus), [Coronavirus tracker](https://gorkang.shinyapps.io/2020-corona/), and [Financial Times](https://www.ft.com/content/a2901ce8-5eb7-4633-b89c-cbdf5b386938), developed and published COVID-19 data visualizations and comparisons at a global and country scale. Nevertheless, those analyses do not differenciate between dates related to each case. For example, there is a difference between analyzing the number of daily cases by date of report than by date of diagnosis. The COVID-19 curves comparisons have been usually made based on the date of report, that can have "delay" of two (2) or three (3) weeks from the date of infection. This represents a crucial limitation to evaluate the real effect of policy measures, such as mobility restrictions, to contain the spread of the virus.
 
 The Colombian government offers a case-by-case dataset of the confirmed COVID-19 infections since the beginning of the pandemic. This means that to-date, that dataset has more than 6 million records (the number of confirmed COVID-19 cases in the country). As a reference, Colombia has approximately 48 million inhabitants.
 
@@ -30,18 +30,19 @@ The dataset is updated every 24 hours and can be accessed through and API (as sh
 - Date of recovery
 - Date of death
 
-Having access to those dates is what allows to correlate infection (using the date of beginning of symptoms and diagnosis as proxys) with the level of mobility.
+Having access to those dates is what allows to correlate infection (using the date of beginning of symptoms and diagnosis as proxys) with the level of mobility. The following figure shows the number of daily cases by the report date and the 7-day moving average to adjust for week-days variance.
 
-![image](https://user-images.githubusercontent.com/90360629/164156356-477d0dd1-7af1-42fc-9f4f-45958447ca57.png)
+![image](https://user-images.githubusercontent.com/90360629/166570370-5ef68e03-c6f5-405e-b37e-cfbfe165cdb5.png)
 
-![image](https://user-images.githubusercontent.com/90360629/164157631-4a73f655-7a42-4725-b0c2-5f02bc8ab29e.png)
+Although similar in their general shape, the daily cases curve looks different when it's analyzed by date of beginning of symptoms or diagnosis, as it is shown in the following figure.
 
-![image](https://user-images.githubusercontent.com/90360629/164157661-2e41e9a7-210d-4132-94ce-1b50a3e09962.png)
+![image](https://user-images.githubusercontent.com/90360629/166570689-5f6358b1-0a0b-4b84-8137-181cd9e9e48a.png)
 
 ## Government Stringency and Mobility Reduction
 
 ### Oxford Stringency Index (OSI)
-The source for the OSI is the [COVID-19 dataset from Our World in Data (OWID)](https://ourworldindata.org/explorers/coronavirus-data-explorer)
+[The Oxford Stringency Index (OSI)](https://www.bsg.ox.ac.uk/research/research-projects/covid-19-government-response-tracker) is an indicator of the policy measures adopted by governments in response to COVID-19 pandemic. It takes into account over 20 indicators, such as school closures, travel restrictions, and vaccionation policies.
+
 
 ![image](https://user-images.githubusercontent.com/90360629/164157685-2afa4d4a-7660-44fe-adf8-a39385c58aff.png)
 
