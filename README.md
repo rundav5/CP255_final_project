@@ -58,7 +58,7 @@ The daily variation of GMR indicators makes it difficult to visualize the long-t
 
 ![image](https://user-images.githubusercontent.com/90360629/166590687-98225e41-cc82-4110-991e-2e8cdc621db9.png)
 
-The following figure shows the smoothed mobility changes in each ammenities' actegory after applying the 7-day moving average. With the exception of "Residence", all categorias have a similar evolution from the beginning of COVID-19 until today. Nevertheless, I highlight the "Workspace" because of its relevance and the fact that is stays within the variation of the other categories during almost all the analyzed time-series. 
+The following figure shows the smoothed mobility changes in each category after applying the 7-day moving average. With the exception of "Residence", all categorias have a similar evolution from the beginning of COVID-19 until today. Nevertheless, I highlight the "Workspace" because of its relevance and the fact that is stays within the variation of the other categories during almost all the analyzed time-series. 
 
 ![image](https://user-images.githubusercontent.com/90360629/166591079-469ba0b2-86ec-4094-a790-5b929307ae31.png)
 
