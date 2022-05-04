@@ -5,7 +5,6 @@ CYPLAN 255: Urban Informatics and Visualization \
 Final Project \
 Spring 2022
 
-
 ## Introduction
 
 **My research question** is if mobility restrictions worked to contain COVID-19 infection in Colombia. To answer the question, I will analyze and visualize cases over time and compare it to mobility restriction measures or proxys. The following are the **datasets** used in this project: 
@@ -70,19 +69,5 @@ The OSI is an indicator of the level of stringency of the government's policies,
 
 ![image](https://user-images.githubusercontent.com/90360629/166807720-32749a30-b531-4842-b833-3f95e323c55a.png)
 
-## Cases vs Restrictions & Mobility
-
-## Analysis for Main Cities
-
-### Bogotá
-
-![image](https://user-images.githubusercontent.com/90360629/166571962-f75d601f-7bac-439c-81b7-8141747f11d2.png)
-
-
-## Next steps
-1. Finish polishing some figures
-3. Figure out a cool way to combine the case curve with the stringency indicators
-4. Reproduce analysis for main cities
-5. Write discussion and conclusions
-6. Review and apply GitHub best practices, so that everything needed to run the project in other computer is available and organized in a repo.
+The previous graph shows that there is some correlation between the OSI and mobility. Besides the first hit, in which the most stringent policies were in place, mobility decreased when stringency increased (see January 2021 and January 2022 in the graph above).
 
