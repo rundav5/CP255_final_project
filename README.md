@@ -49,27 +49,26 @@ The [Oxford Stringency Index (OSI)](https://www.bsg.ox.ac.uk/research/research-p
 
 The following figure shows the OSI for Colombia and Argentina, United States, and United Kingdom for comparison. A higher OSI means stronger restrictions. Compared to the other selected countries, at the beginning of the pandemic the Colombian Government responded with strong restrictions (OSI over 80) that were kept up to five (5) months, until September 2020. Later, there was a period of four (4) months in which restrictions eased a little bit (OSI around 60) to then come back up again close to the first wave stringency. Since then, the OSI for Colombia seems to be gradually decreasing with short periods of time of exception.
 
-![image](https://user-images.githubusercontent.com/90360629/166574546-333217e9-a368-4981-862c-8af99e788d59.png)
+![image](https://user-images.githubusercontent.com/90360629/166807987-21661292-8a4e-45ad-8176-1d49b40f3707.png)
 
 ### Google Mobility Reports (GMR)
-The [COVID-19 Google Mobility Reports](https://www.google.com/covid19/mobility/) offer a relative comparison of the access to different ammenities since the beginning of the pandemic, based on cellphone location data.
+The [COVID-19 Google Mobility Reports](https://www.google.com/covid19/mobility/) offer a relative comparison of the access to different ammenities since the beginning of the pandemic, based on cellphone location data. The following figure shows the daily "mobility change" in six different ammenities since the beginning COVID-19 in Colombia.
 
-The following figure shows the daily "mobility change" in six different ammenities since the beginning COVID-19 in Colombia.
-
-![image](https://user-images.githubusercontent.com/90360629/166596066-21ab6403-e934-4ba6-864f-596e6287aaf0.png)
+![image](https://user-images.githubusercontent.com/90360629/166808036-347a1365-be2a-4a54-b36f-68f245a5c50b.png)
 
 The daily variation of GMR indicators makes it difficult to visualize the long-term tendency of mobility changes. I smoothed the indicator by applying a 7-day moving average to avoid small variations within a single week, as it is shown in the following figure.
 
-![image](https://user-images.githubusercontent.com/90360629/166590687-98225e41-cc82-4110-991e-2e8cdc621db9.png)
+![image](https://user-images.githubusercontent.com/90360629/166808068-c04594c2-876e-470e-8690-aa94eeea761e.png)
 
 The following figure shows the smoothed mobility changes in each category after applying the 7-day moving average. With the exception of "Residence", all categorias have a similar evolution from the beginning of COVID-19 until today. Nevertheless, I highlight the "Workspace" because of its relevance and the fact that is stays within the variation of the other categories during almost all the analyzed time-series. 
 
-![image](https://user-images.githubusercontent.com/90360629/166591079-469ba0b2-86ec-4094-a790-5b929307ae31.png)
+![image](https://user-images.githubusercontent.com/90360629/166808101-e01c631d-a9c0-4ec7-bafe-1554561a0774.png)
 
-### Did Restrictions Reduce Mobility?
+## Restrictions, Mobility Reduction, and Infection
 
-Recognizing that the GMR data is limited, the following figure shows that in a national scale, when policiy restrictions were more strict, mobility didn't decrease.
+The OSI is an indicator of the level of stringency of the government's policies, but that doesn't necesarily mean that mobility was effectively reduced when the stringency increased. To answer my research question, I first checked if there is a a correlation between the OSI and mobility, measured by the GMR data. I aknowledge that the GMR data is limited and biased towards a specific group of people, but there is no better indicator that I know of, and is definetely better than nothing. The following figure shows the evolution of the OSI and an indicator of mobility changes since the pandemic started for Colombia.
 
+![image](https://user-images.githubusercontent.com/90360629/166807720-32749a30-b531-4842-b833-3f95e323c55a.png)
 
 ## Cases vs Restrictions & Mobility
 
