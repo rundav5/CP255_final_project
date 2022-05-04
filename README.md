@@ -69,5 +69,7 @@ The OSI is an indicator of the level of stringency of the government's policies,
 
 ![image](https://user-images.githubusercontent.com/90360629/166807720-32749a30-b531-4842-b833-3f95e323c55a.png)
 
-The previous graph shows that there is some correlation between the OSI and mobility. Besides the first hit, in which the most stringent policies were in place, mobility decreased when stringency increased (see January 2021 and January 2022 in the graph above).
+The previous graph shows that there is some correlation between the OSI and mobility. Besides the first hit, in which the most stringent policies were in place, mobility decreased when stringency increased (see January 2021 and January 2022 in the graph above). Knowing that, I then graphed the OSI agains the curve of daily COVID-19 cases by estimate date of infection. This is not a causal analysis, but if the government's restriction policies worked to contain infection, you would expect that rate growth of the COVID-19 cases curve by infection slows down or that the groing tendency of infection breaks in the next few days after the stringency increases. 
+
+
 
