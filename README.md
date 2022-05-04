@@ -23,20 +23,24 @@ The Colombian government offers a case-by-case dataset of the confirmed COVID-19
 ![image](https://user-images.githubusercontent.com/90360629/164156943-fa086531-b907-4ca6-8b86-58fa92be92fe.png)
 *Image from: https://www.eltiempo.com/files/image_950_534/uploads/2020/03/25/5e7b553bac37b.jpeg*
 
-The dataset is updated every 24 hours and can be accessed through and API. Something crucial for this analysis is the differentiation between the report and the infection dates. The Colombian dataset has the advantage that reports several dates related to each confirmed case, such as: 
+The dataset is updated every 24 hours and can be accessed through and API. Something crucial for this analysis is the difference between the date of reports and other relevant dates related to the infection. The Colombian dataset has the advantage that reports several dates related to each confirmed case, such as: 
 - Date of report
 - Date of beginning of symptoms
 - Date of diagnosis
 - Date of recovery
-- Date of death
+- Date of death (when it applies)
 
 Having access to those dates is what allows to correlate infection (using the date of beginning of symptoms and diagnosis as proxys) with the level of mobility. The following figure shows the number of daily cases by the report date and the 7-day moving average to adjust for week-days variance.
 
 ![image](https://user-images.githubusercontent.com/90360629/166570370-5ef68e03-c6f5-405e-b37e-cfbfe165cdb5.png)
 
-Although similar in their general shape, the daily cases curve looks different when it's analyzed by date of beginning of symptoms or diagnosis, as it is shown in the following figure. There is a "delay" of two (2) to three (3) weeks in the daily cases curve by report date in comparison to the curve by date of beginning of symptoms or diagnosis, which makes a big difference to understand if lockdowns and other restrictions correlate or not to the evolution of infection.
+Although similar in their general shape, the daily cases curve looks different when it's analyzed by date of beginning of symptoms or diagnosis, as it is shown in the following figure. There is a "delay" of two (2) to three (3) weeks in the daily cases curve by report date in comparison to the curve by date of beginning of symptoms or diagnosis, 
 
 ![image](https://user-images.githubusercontent.com/90360629/166570689-5f6358b1-0a0b-4b84-8137-181cd9e9e48a.png)
+
+Additionaly, symptoms do not appear immediately after infection or "contact" with the virus. [The incubation period, meaning the number of days between the infection and symptoms presenting, is about 5-6 days for COVID-19](https://www.webmd.com/lung/coronavirus-incubation-period#1), although it can vary a lot depending on the variant, the exposure, and the person's previous health conditions. The following figure shows the curve of daily COVID-19 cases in Colombia with an estimated date of infection, which makes a big difference to understand if lockdowns and other restrictions helped or not to reduce infection.
+
+![image](https://user-images.githubusercontent.com/90360629/166764988-425487b6-614a-42de-acbf-181d4aa1e859.png)
 
 ## Government Stringency and Mobility Reduction
 
