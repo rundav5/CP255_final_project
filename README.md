@@ -78,4 +78,4 @@ Besides the initial hit of the pandemic, in which there were very little cases w
 - Mid November 2021
 - Mid December 2021
 
-For the first two dates, when OSI increased, the COVID-19 daily cases curve by date of infection was already going down. For the third date, the curve peaked more than 9 days after OSI increased. There is no evidence that suggests correlation between restrictions policies and infection in Colombia.
+For the first two dates, when OSI increased, the COVID-19 daily cases curve by date of infection was already going down. For the third date, the curve peaked more than 9 days after OSI increased. **There is no evidence that suggests correlation between restrictions policies and infection in Colombia**.
