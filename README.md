@@ -66,7 +66,7 @@ The following figure shows the smoothed mobility changes in each category after 
 
 ## Restrictions, Mobility Reduction, and Infection
 
-The OSI is an indicator of the level of stringency of the government's policies, but that doesn't necesarily mean that mobility was effectively reduced when the stringency increased. To answer my research question, I first checked if there is a a correlation between the OSI and mobility, measured by the GMR data. I aknowledge that the GMR data is limited and biased towards a specific group of people, but there is no better indicator that I know of, and is definetely better than nothing. The following figure shows the evolution of the OSI and an indicator of mobility changes since the pandemic started for Colombia.
+The OSI is an indicator of the level of stringency of the government's policies, but that doesn't necesarily mean that mobility was effectively reduced when the stringency increased. To answer my research question, I first checked if there is a a correlation between the OSI and mobility, measured by the GMR data. I aknowledge that the GMR data is limited and biased towards a specific group of people, but there is no better indicator that I know of, and is definetely better than nothing. The following figure shows the evolution of the OSI and an the mobility changes in the workplace from GMR since the pandemic started for Colombia.
 
 ![image](https://user-images.githubusercontent.com/90360629/166807720-32749a30-b531-4842-b833-3f95e323c55a.png)
 
