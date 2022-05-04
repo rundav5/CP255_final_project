@@ -39,7 +39,7 @@ Although similar in their general shape, the daily cases curve looks different w
 
 Additionaly, symptoms do not appear immediately after infection or "contact" with the virus. [The incubation period, meaning the number of days between the infection and symptoms presenting, is about 5-6 days for COVID-19](https://www.webmd.com/lung/coronavirus-incubation-period#1), although it can vary a lot depending on the variant, the exposure, and the person's previous health conditions. The following figure shows the curve of daily COVID-19 cases in Colombia with an estimated date of infection, which makes a big difference to understand if lockdowns and other restrictions helped or not to reduce infection.
 
-![image](https://user-images.githubusercontent.com/90360629/166764988-425487b6-614a-42de-acbf-181d4aa1e859.png)
+![image](https://user-images.githubusercontent.com/90360629/166814429-c76fd641-e17e-4a5a-b9d0-c05f9cd0e87b.png)
 
 ## Government Stringency and Mobility Reduction
 
