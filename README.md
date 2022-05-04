@@ -65,11 +65,17 @@ The following figure shows the smoothed mobility changes in each category after 
 
 ## Restrictions, Mobility Reduction, and Infection
 
-The OSI is an indicator of the level of stringency of the government's policies, but that doesn't necesarily mean that mobility was effectively reduced when the stringency increased. To answer my research question, I first checked if there is a a correlation between the OSI and mobility, measured by the GMR data. I aknowledge that the GMR data is limited and biased towards a specific group of people, but there is no better indicator that I know of, and is definetely better than nothing. The following figure shows the evolution of the OSI and an the mobility changes in the workplace from GMR since the pandemic started for Colombia.
+OSI is an indicator of the level of stringency of the government's policies, but that doesn't necesarily mean that mobility was effectively reduced when the stringency increased. To answer my research question, I first checked if there is a a correlation between the OSI and mobility, measured by the GMR data. I aknowledge that the GMR data is limited and biased towards a specific group of people, but there is no better indicator that I know of, and is definetely better than nothing. The following figure shows the evolution of the OSI and an the mobility changes in the workplace from GMR since the pandemic started for Colombia.
 
 ![image](https://user-images.githubusercontent.com/90360629/166807720-32749a30-b531-4842-b833-3f95e323c55a.png)
 
 The previous graph shows that there is some correlation between the OSI and mobility. Besides the first hit, in which the most stringent policies were in place, mobility decreased when stringency increased (see January 2021 and January 2022 in the graph above). Knowing that, I then graphed the OSI agains the curve of daily COVID-19 cases by estimate date of infection. This is not a causal analysis, but if the government's restriction policies worked to contain infection, you would expect that rate growth of the COVID-19 cases curve by infection slows down or that the groing tendency of infection breaks in the next few days after the stringency increases. 
 
+![image](https://user-images.githubusercontent.com/90360629/166828715-5ddcaf94-534b-4070-b269-35a9154d3e15.png)
 
+Besides the initial hit of the pandemic, in which there were very little cases when the most stringent restrictions were imposed, there are three moments in thime in which COVID-19 was widely circulating in Colombia and a significant increase of the OSI was observed:
+- Beginning of January 2021
+- Mid November 2021
+- Mid December 2021
 
+For the first two dates, when OSI increased, the COVID-19 daily cases curve by date of infection was already going down. For the third date, the curve peaked more than 9 days after OSI increased. There is no evidence that suggests correlation between restrictions policies and infection in Colombia.
